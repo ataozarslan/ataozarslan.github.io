@@ -1,4 +1,4 @@
-# BenEmdon.GitHub.io
+# ataozarslan.github.io
 😵
 ✨
 😬
@@ -12,4 +12,4 @@
 
 Feel free to use this website as a template for your own! 
 
-Author: [BenEmdon](https://github.com/benemdon)
+Author: [AtaOzarslan](https://github.com/ataozarslan)
